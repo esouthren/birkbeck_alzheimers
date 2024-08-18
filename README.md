@@ -16,5 +16,9 @@ We use three models and document their output:
 Thanks to supervisor Dr Rick Cooper, Escher the cat, and you, lovely reader, for opening this repository.
 
 Eilidh Southren 
-July 2024
+August 2024
+
+<img src="https://github.com/user-attachments/assets/4decb4be-2baa-443e-95fb-1f2ea77c905f" width="250" />
+
+
 
